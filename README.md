@@ -10,7 +10,7 @@ Requires Instafluff's ChatBlocks
 Sends the following commands to the chat for the streamer's use:
  - !gstart 
  - !gstop  
- - !waiting <username> 
+ - !waiting `<username>`
  - !winner 
  - !womp   
 
