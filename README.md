@@ -16,3 +16,5 @@ Sends the following commands to the chat for the streamer's use:
 
 When a name is drawn, it will send an announcement to chat, start a 60 second timer, and ONLY IF it is run from a different 
 user account than the streamer, whisper the streamer with the winner's name.
+
+GPL and so on
